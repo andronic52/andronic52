@@ -1,16 +1,25 @@
+
 ### Hi there 👋
+<h2> Hey there! I'm andronic. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<!--
-**andronic52/andronic52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+.
+.
+.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &nbsp; I’m currently learning python.
+- 🤔 &nbsp; Working on automatization bots.
+- 🎓 &nbsp; Studying python, mathematics, javascript.
+- 💼 &nbsp; python programmer.
+- 🤖 &nbsp; Enthusiast in Artificial Intelligence .
+- 🏍 &nbsp; Like to ride Motorcycle and sell gigs on fiverr.
+- ⛺ &nbsp; I believe a nice walk in the nature is the solution for stress. 
+
+
+
+
+
+
+
