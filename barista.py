@@ -1,7 +1,7 @@
 print('hello, welcome to potato cafe!!!')
 #welcomes the customer
 
-name = input('whats your name? ') h
+name = input('whats your name? ')
 #defines variable name as what costumer types
 
 if name == 'ben' or name == 'patricia' or name == 'loki':
