@@ -9,12 +9,12 @@
 .
 .
 
-- 🔭 &nbsp; I’m currently learning machine learning.
+- 🔭 &nbsp; I’m currently learning Golang.
 - 🤔 &nbsp; Working on automatization bots.
-- 🎓 &nbsp; Studying python, mathematics, javascript.
-- 💼 &nbsp; Python and Javascript programmer.
+- 🎓 &nbsp; Studying machine learning, AI, GO.
+- 💼 &nbsp; Python programmer.
 - 🤖 &nbsp; Enthusiast in Artificial Intelligence .
-- 🏍 &nbsp;  Like to ride Motorcycle and sell gigs on fiverr.
+- 🏍 &nbsp;  Life is about code and motorcycles.
 - ⛺ &nbsp; I believe a nice walk in the nature is the solution for stress. 
 
 &nbsp;<div align="center">
